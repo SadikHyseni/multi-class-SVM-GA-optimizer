@@ -4,7 +4,7 @@ This project implements a multi-class classification system using a **Support Ve
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 - **Goal**: Improve the accuracy of a multi-class SVM classifier using hyperparameter optimization.
 - **Technique**: Genetic Algorithm for tuning the SVM's `C` parameter.
@@ -12,7 +12,7 @@ This project implements a multi-class classification system using a **Support Ve
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - One-vs-All SVM for multi-class classification.
 - Genetic Algorithm to optimize the regularization parameter `C`.
@@ -25,7 +25,7 @@ This project implements a multi-class classification system using a **Support Ve
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 - **Support Vector Machine (SVM)** with Stochastic Gradient Descent
 - **Genetic Algorithm (GA)**:  
@@ -38,7 +38,7 @@ This project implements a multi-class classification system using a **Support Ve
 
 ---
 
-## 📊 Results
+## Results
 
 - **Optimal C** (regularization parameter) found: `0.01`
 - **Validation Accuracy**: `95.3%`
@@ -48,5 +48,5 @@ This project implements a multi-class classification system using a **Support Ve
 
 ---
 
-## 📁 File Structure
+## File Structure
 
