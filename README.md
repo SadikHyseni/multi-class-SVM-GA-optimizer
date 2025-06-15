@@ -46,3 +46,8 @@ This project implements a multi-class classification system using a **Support Ve
 - High performance on digits like 0, 4, and 6.
 - Minor confusion between similar digits (e.g., 8 and 9).
 
+##  Dependencies
+- **Java 8 or higher**
+- **No external libraries required (pure Java)**
+- **CSV data files in data/ directory**
+
